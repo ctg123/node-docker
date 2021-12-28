@@ -1,0 +1,23 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "Learning how to containerize apps in Node.js with Docker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctg123/node-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctg123/node-docker/issues"
+  },
+  "homepage": "https://github.com/ctg123/node-docker#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
